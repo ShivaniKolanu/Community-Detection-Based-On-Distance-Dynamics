@@ -17,6 +17,8 @@ It uses the following libraries:
 
 This repository contains 2 files. Both the files are one and the same. Just that their extensions are different. One is .ipynb file and another is .py file.
 
+No need of any external dataset files as all the networks are being called explicitly.
+
 Referred into https://networkx.org/documentation/stable/auto_examples/graph/plot_karate_club.html to import the Karate Club Graph
 Referred to https://networkx.org/documentation/stable/auto_examples/graph/plot_football.html to use footbal dataset in the project.
 
